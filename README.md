@@ -5,11 +5,11 @@
 
 # 💫 About Me:
 *🔭 I’m currently working on Resonate
-<br> *🌱 I’m currently learning App Design & System Design 
-<br>*   All  of my projects are available on GitHub
-<br>*I'm regularly uploading  videos on youtube      <br>
-*💬 Ask me about Programing , web development<br>
-*⚡ Reach out to me at nanditanataraj123@gmail.com
+<br>*🌱 I’m currently learning App Design & System Design 
+<br>*All  of my projects are available on GitHub
+<br>*I'm regularly uploading  videos on youtube      
+<br>*💬 Ask me about Programing , web development
+<br>*⚡ Reach out to me at nanditanataraj123@gmail.com
 
 
 ## 🌐 Socials:
