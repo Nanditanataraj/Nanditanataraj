@@ -1,11 +1,13 @@
-## Hi 👋 I'm Nandita <A passionate developer from india>
+## Hi 👋 I'm Nandita 
+    A passionate developer from india
+    
 [![](https://komarev.com/ghpvc/?username=Nandita&icon=0&color=7)](https://visitcount.itsvg.in)
-A passionate developer from india 
+
 # 💫 About Me:
-*🔭 I’m currently working on Resonate<br> 
-*🌱 I’m currently learning App Design & System Design <br>
-*   All  of my projects are available on GitHub<br>
-*I'm regularly uploading  videos on youtube      <br>
+*🔭 I’m currently working on Resonate
+<br> *🌱 I’m currently learning App Design & System Design 
+<br>*   All  of my projects are available on GitHub
+<br>*I'm regularly uploading  videos on youtube      <br>
 *💬 Ask me about Programing , web development<br>
 *⚡ Reach out to me at nanditanataraj123@gmail.com
 
