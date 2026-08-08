@@ -1,22 +1,16 @@
 ## Hi 👋 I'm Nandita 
-    A passionate developer from india
+##           A passionate developer from india 
     
 [![](https://komarev.com/ghpvc/?username=Nandita&icon=0&color=7)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
 
 *🔭 I’m currently working on Resonate
-
 <br>*🌱 I’m currently learning App Design & System Design 
-
 <br>*All  of my projects are available on GitHub
-
 <br>*I'm regularly uploading  videos on youtube 
-
 <br>*💬 Ask me about Programing , web development
-
 <br>*⚡ Reach out to me at nanditanataraj123@gmail.com
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Nanditanataraj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nandita) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nanditanataraj) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@wellcome to kcet 2026 | AI Kidszone) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nanditanataraj1234@gmail.com) 
@@ -29,7 +23,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nandita&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Nandita&icon=0&color=7)](https://visitcount.itsvg.in)
+
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Buy me a coffee) 
