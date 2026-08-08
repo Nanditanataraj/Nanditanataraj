@@ -1,5 +1,5 @@
-##                            Hi 👋 I'm Nandita 
-####                    A passionate developer from india 
+##                                Hi 👋 I'm Nandita 
+####             A passionate developer from india 
     
 [![](https://komarev.com/ghpvc/?username=Nandita&icon=0&color=7)](https://visitcount.itsvg.in)
 
